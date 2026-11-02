@@ -1,0 +1,88 @@
+---
+title: Contributing
+nav: true
+---
+
+# Contributing
+
+We are pleased to offer two different ways for participants to present their work at our workshop, accommodating a range of presentation styles and formats. All submissions will be reviewed for scientific merit and alignment with the conference themes.
+
+1. **Poster Presentation:** We invite researchers to submit a poster outlining their work for review. This option is ideal for those who wish to share their research findings, methodologies, and results in a structured, visual format.
+
+2. **Poster + Demonstration:** For those interested in complementing their poster with a hands-on demonstration, we encourage the submission of a poster along with a **short video** showcasing their work. The video may include **experimental results, system operations, and simulations,** providing additional insights into the research. Accepted participants will present both a **live demonstration** and a **poster**, allowing for a more interactive engagement with the audience. 
+
+## Submission Details
+
+- For all submissions, submit your poster directly as a PDF (sized 36 in. x 48 in.).
+- For demo submissions, please upload your abstract and then your video as supplementary material. Video files should be no longer than 2 minutes, up to 50 mb, and in .mp4 format. The option for supplementary material will appear in the author console after submitting the abstract.
+- The review process is single-blind.
+- Submission and review for conference alignment will be conducted through the Google Form upload.
+
+<div style="text-align: center;">
+  <a href="https://forms.gle/CffyH2PRTgqCvxup6" class="button">Submit Contribution</a>
+</div>
+
+<style>
+.button {
+  display: inline-block;
+  padding: 15px 30px;
+  font-size: 24px;
+  color: white;
+  background-color: #dca735ff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background 0.3s;
+}
+
+.button:hover {
+  background-color: #fff395ff;
+}
+
+.button:visited,
+.button:active,
+.button:focus {
+  color: white !important;
+  text-decoration: none;
+}
+</style>
+
+## Key Dates
+
+*All submission deadlines are at 23:59:59 PDT*
+
+- July 15: Submission portal opens
+- ~~August 28~~ September 10: Submission portal closes
+- ~~September 4~~ September 12: Decision notifications sent
+- October 1: HADR @ IROS Workshop!
+
+## Topics of Interest
+- Humanitarian assistance & demining
+- Rescue robotics
+- Sensing in extreme environments (underwater, space, hazardous)
+- Remote sensing of disasters
+- Untethered and fully encapsulated systems
+- Inspection of critical infrastructure
+- Resilient operations in degraded conditions
+- Performance evaluation and benchmarking
+
+
+## Accepted Submissions.
+
+Posters will be posted online for future researchers to reference! 
+
+<style>
+.footnote {
+  font-size: 0.75em; /* Adjusts to footnote size */
+  color: #555; /* Slightly muted color */
+  text-align: justify;
+}
+
+.footnote a {
+  color: #0073e6; /* Ensures the link is visible */
+  text-decoration: none;
+}
+
+.footnote a:hover {
+  text-decoration: underline;
+}
+</style>
