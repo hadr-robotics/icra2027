@@ -46,9 +46,9 @@ title: Home
 
 This workshop focuses on robotics and autonomous systems for Humanitarian Assistance and Disaster Relief (HADR), bringing interdisciplinary technologies to address complex emergency response challenges. It will convene researchers and practitioners from robotics, disaster science, emergency and field medicine, and systems engineering to explore problems spanning small-scale incidents to large-scale catastrophes while identifying common underlying challenges. Topics include field-deployable aerial and ground platforms, resilient perception and mapping in degraded environments, human–robot teaming, and decision support under uncertainty, alongside theoretical perspectives that frame HADR as a coherent scientific problem space. The workshop will also emphasize retrospective analyses of past deployments, strategies for collecting and sharing operationally relevant datasets, and the development of meaningful benchmarking methodologies that reflect the constraints of real disaster environments.
 
-**Location:** Pittsburgh, PA 
+**Location:** Seoul, South Korea
 
-**Date:** October 1, 2026
+**Date:** TBA
 
 **Duration:** Full Day
 
