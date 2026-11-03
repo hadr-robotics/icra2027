@@ -29,7 +29,7 @@ repo: "https://github.com/evanwill/workshop-template"
 url: https://hadr-robotics.github.io
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: /iros2026
+baseurl: /icra2027
 
 # defaults (to simplify front matter)
 defaults:
