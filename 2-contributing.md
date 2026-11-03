@@ -19,7 +19,7 @@ We are pleased to offer two different ways for participants to present their wor
 - Submission and review for conference alignment will be conducted through a form made available when the submission portal opens
 
 <div style="text-align: center;">
-  <a href="https://hadr-robotics.github.io/iros2026/2-contributing.html" class="button">Submit Contribution</a>
+  <a href="https://hadr-robotics.github.io/iros2027/2-contributing.html" class="button">Submit Contribution</a>
 </div>
 
 <style>
