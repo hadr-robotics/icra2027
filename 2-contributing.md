@@ -16,10 +16,10 @@ We are pleased to offer two different ways for participants to present their wor
 - For all submissions, submit your poster directly as a PDF (sized 36 in. x 48 in.).
 - For demo submissions, please upload your abstract and then your video as supplementary material. Video files should be no longer than 2 minutes, up to 50 mb, and in .mp4 format. The option for supplementary material will appear in the author console after submitting the abstract.
 - The review process is single-blind.
-- Submission and review for conference alignment will be conducted through the Google Form upload.
+- Submission and review for conference alignment will be conducted through a form made available when the submission portal opens
 
 <div style="text-align: center;">
-  <a href="https://forms.gle/CffyH2PRTgqCvxup6" class="button">Submit Contribution</a>
+  <a href="" class="button">Submit Contribution</a>
 </div>
 
 <style>
@@ -50,10 +50,7 @@ We are pleased to offer two different ways for participants to present their wor
 
 *All submission deadlines are at 23:59:59 PDT*
 
-- July 15: Submission portal opens
-- ~~August 28~~ September 10: Submission portal closes
-- ~~September 4~~ September 12: Decision notifications sent
-- October 1: HADR @ IROS Workshop!
+Key dates will be announced soon!
 
 ## Topics of Interest
 - Humanitarian assistance & demining
