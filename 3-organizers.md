@@ -13,7 +13,7 @@ nav: true
 | ![Margaret](./images/margaret_round.jpg) | [Margaret McGuinness](https://engineering.nd.edu/faculty/margaret-mcguinness/)       | University of Notre Dame                      |
 | ![Taskin](./images/taskin_round.png) | [Taskin Padir](https://coe.northeastern.edu/people/padir-taskin/)     | Northeastern University                      |
 | ![Robin](./images/robin_murphy-circle.png) | [Robin Murphy](https://engineering.tamu.edu/cse/profiles/rmurphy.html)          | Texas A&M University                                          |
-| ![Eric](./images/eric_round.png) | [Eric Cristofalo](https://scholar.google.com/citations?user=rjqOWi4AAAAJ&hl=en)        | MIT Lincoln Laboratory                                         |
 | ![Antonio](./images/antonio_round.png) | [Antonio Alvarez Valdivia](https://scholar.google.com/citations?user=VfCUcEQAAAAJ&hl=en)          | Northeastern University                                       |
+| ![Eric](./images/eric_round.png) | [Eric Cristofalo](https://scholar.google.com/citations?user=rjqOWi4AAAAJ&hl=en)        | MIT Lincoln Laboratory                                         |
 | ![Sicheng]() | [Sicheng Wang](https://scholar.google.com/citations?user=VfCUcEQAAAAJ&hl=en)          | University of Notre Dame                                       |
 
