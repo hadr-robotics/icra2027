@@ -2,7 +2,7 @@
 title: Home
 ---
 
-{% include figure.html img="HADR_ICRA.png" alt="Workshop Logo" width="100%" %}
+{% include figure.html img="./images/HADR_ICRA.png" alt="Workshop Logo" width="100%" %}
 
 <div id="typewriter">
   <h1>Robots for...</h1>
