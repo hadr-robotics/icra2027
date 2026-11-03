@@ -63,14 +63,14 @@ This workshop focuses on robotics and autonomous systems for Humanitarian Assist
   padding: 15px 30px;
   font-size: 24px;
   color: white;
-  background-color: #dca735ff;
+  background-color: #006935;
   text-decoration: none;
   border-radius: 5px;
   transition: background 0.3s;
 }
 
 .button:hover {
-  background-color: #fff395ff;
+  background-color: #7CF9BA;
 }
 
 .button:visited,
