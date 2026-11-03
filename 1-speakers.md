@@ -11,6 +11,6 @@ Confirmed speakers are listed below. Additional speakers and organizations will 
 
 || Name                      | Affiliation                    | Talk Title |
 ||---------------------------|-------------------------------|------------|
-|![Keiji](./images/artamonov_round.png)| Keiji Nagatani            | University of Tsukuba (Japan)               | TBA |
-|![Younggun](./images/xuesu_round.png)| Younggun Cho              | Inha University (S. Korea)               | TBA  |
-|![Dongbin](./images/zeynep_round.png) | Dongbin Kim                     | University of Hartford (USA)      | TBA  |
+|![Keiji](./images/keiji_round.png)| Keiji Nagatani            | University of Tsukuba (Japan)               | TBA |
+|![Younggun](./images/younggun_round.png)| Younggun Cho              | Inha University (S. Korea)               | TBA  |
+|![Dongbin](./images/dongbin_round.png) | Dongbin Kim                     | University of Hartford (USA)      | TBA  |
